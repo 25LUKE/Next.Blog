@@ -4,7 +4,7 @@ import MyProfilePic from './components/MyProfilePic'
 
 export const metadata = {
   title: "Eric's Blog",
-  description: 'Created by Eric Luke',
+  description: 'Created by Eric',
 }
 
 export default function RootLayout({
