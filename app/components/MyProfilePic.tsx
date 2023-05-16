@@ -8,7 +8,7 @@ export default function MyProfilePic() {
                 src="/images/DSC_6227w.jpg"
                 width={200}
                 height={200}
-                alt="Eric Luke"
+                alt="Eric"
                 priority={true}
             />
         </section>
